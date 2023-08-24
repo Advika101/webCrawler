@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "name": "webcrawler",
+  "description": "Learning JS by making a web crawler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "-"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Advika101/webCrawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Advika101/webCrawler/issues"
+  },
+  "homepage": "https://github.com/Advika101/webCrawler#readme"
+}
